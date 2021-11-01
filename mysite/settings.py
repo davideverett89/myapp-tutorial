@@ -82,7 +82,6 @@ DATABASES = {
         'PASSWORD': '1289_0690',
         'HOST': '127.0.0.1',
         'PORT': '5432',
-        'TIME_ZONE': 'UTC',
     },
 }
 
